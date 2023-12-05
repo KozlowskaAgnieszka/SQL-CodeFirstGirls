@@ -13,3 +13,4 @@ The final data project of the **Data & SQL** course held by the [**Code First Gi
 -  Data Management Using SQL Coding Techniques
 
 #### CERTIFICATE
+![](https://github.com/KozlowskaAgnieszka/SQL-CodeFirstGirls/blob/main/CFG%20Data%20%26%20SQL%20-%20Certificate.pdf "SQL Certificate")
