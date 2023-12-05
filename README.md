@@ -7,4 +7,4 @@ Here are the exciting topics I've delved into during this course:
 - We learned the ins and outs of data manipulation using SQL programming language.
 - Finally, we wrapped up by mastering data management with SQL coding techniques.
 
-And drumroll please... presenting my #### [certificate of completion with distinction](https://github.com/KozlowskaAgnieszka/SQL-CodeFirstGirls/blob/main/CFG%20Data%20%26%20SQL%20-%20Certificate.pdf)! You can also check out my #### [Project Presentation](https://github.com/KozlowskaAgnieszka/SQL-CodeFirstGirls/blob/main/CONSOLE%20GAME%20STORE%20presentation.pdf) to see all the cool things I've accomplished.
+And drumroll please... presenting my [certificate of completion with distinction](https://github.com/KozlowskaAgnieszka/SQL-CodeFirstGirls/blob/main/CFG%20Data%20%26%20SQL%20-%20Certificate.pdf)! You can also check out my [Project Presentation](https://github.com/KozlowskaAgnieszka/SQL-CodeFirstGirls/blob/main/CONSOLE%20GAME%20STORE%20presentation.pdf) to see all the cool things I've accomplished.
